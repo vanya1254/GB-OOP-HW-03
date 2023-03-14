@@ -17,6 +17,6 @@ public class Circle extends Figure {
 
     @Override
     public Double getPerimeter() {
-        return 2 * Math.PI * radius;
+        return 2 * Math.PI * radius;//длина окружности и периметр одно и тоже..
     }
 }
