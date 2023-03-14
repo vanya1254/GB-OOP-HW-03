@@ -1,3 +1,6 @@
+package Figure.Polygon;
+import Figure.Figure;
+
 public class Rectangle extends Figure {
     protected Double sideA;
     protected Double sideB;

@@ -1,3 +1,5 @@
+import Figure.Figure;
+
 public class Triangle extends Figure {
     private Double sideA;
     private Double sideB;

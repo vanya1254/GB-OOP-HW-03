@@ -1,3 +1,6 @@
+package Figure.Circle;
+import Figure.Figure;
+
 public class Circle extends Figure {
     private Double radius;
 
